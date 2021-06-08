@@ -1,0 +1,11 @@
+0 compra en tienda
+1 compra en línea
+
+Ponerme al día con las clases
+
+5, 6 y 7 del PDF investigación 23 de junio exponer 15-20min
+
+Con mi set de datos (Jupyter Notebook) (Dividir set de datos a la mitad en dos archivos csv)
+Una pregunta como la prinicipal y 3 preguntas secundarias (al menos)
+
+Investigar el set de datos elegido (PANDAS)
